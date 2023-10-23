@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://shogun1988.github.io/csb-gv9m8s/static/js/main.b49e35f5.chunk.js",
+    "main.js.map": "https://shogun1988.github.io/csb-gv9m8s/static/js/main.b49e35f5.chunk.js.map",
+    "runtime-main.js": "https://shogun1988.github.io/csb-gv9m8s/static/js/runtime-main.61afa845.js",
+    "runtime-main.js.map": "https://shogun1988.github.io/csb-gv9m8s/static/js/runtime-main.61afa845.js.map",
+    "static/js/2.46c8e90e.chunk.js": "https://shogun1988.github.io/csb-gv9m8s/static/js/2.46c8e90e.chunk.js",
+    "static/js/2.46c8e90e.chunk.js.map": "https://shogun1988.github.io/csb-gv9m8s/static/js/2.46c8e90e.chunk.js.map",
+    "index.html": "https://shogun1988.github.io/csb-gv9m8s/index.html",
+    "precache-manifest.444f779836b728d201e059c11547260f.js": "https://shogun1988.github.io/csb-gv9m8s/precache-manifest.444f779836b728d201e059c11547260f.js",
+    "service-worker.js": "https://shogun1988.github.io/csb-gv9m8s/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61afa845.js",
+    "static/js/2.46c8e90e.chunk.js",
+    "static/js/main.b49e35f5.chunk.js"
+  ]
+}
